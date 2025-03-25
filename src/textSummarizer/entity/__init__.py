@@ -13,7 +13,7 @@ class DataTransformationConfig:
     root_dir: Path
     data_path: Path
     tokenizer_name: Path
-
+@dataclass
 class ModelTrainerConfig:
     root_dir: Path
     data_path: Path
