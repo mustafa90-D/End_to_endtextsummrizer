@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mustafa.tark/Desktop/LLM/mlruns/0/fb94e4a4031a47339a4301f50f33d34b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb94e4a4031a47339a4301f50f33d34b
+run_name: artifacts/model_trainer
+run_uuid: fb94e4a4031a47339a4301f50f33d34b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742958048614
+status: 1
+tags: []
+user_id: mustafa.tark
